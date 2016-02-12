@@ -1,3 +1,5 @@
+require 'forwardable'
+
 module Tunefind
   class Base
     extend SingleForwardable
